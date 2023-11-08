@@ -1,0 +1,14 @@
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\NugetBuilder.exe.config
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\NugetBuilder.exe.manifest
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\NugetBuilder.application
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\NugetBuilder.exe
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\NugetBuilder.pdb
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.csproj.CoreCompileInputs.cache
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.exe.manifest
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.application
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.csproj.CopyComplete
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.exe
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.pdb
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.Properties.Resources.resources
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\x86\Release\NugetBuilder.csproj.GenerateResource.cache

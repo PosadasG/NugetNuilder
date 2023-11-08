@@ -1,0 +1,6 @@
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\Debug\NugetBuilder.exe.config
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\Debug\NugetBuilder.exe
+C:\Users\posadasg\Documents\Projects\NugetBuilder\bin\Debug\NugetBuilder.pdb
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\Debug\NugetBuilder.csproj.CoreCompileInputs.cache
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\Debug\NugetBuilder.exe
+C:\Users\posadasg\Documents\Projects\NugetBuilder\obj\Debug\NugetBuilder.pdb

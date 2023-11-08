@@ -1,0 +1,29 @@
+{
+  "name": "SampleName", //do not use blank spaces
+  "version": "40.0.0",
+  "description": "Short sample description of the package",
+  "copyright": "2021",
+  "owners": "Aspen Technology, Inc.",
+  "frameworks": [
+    {
+      //Replace the files list and always use double \\ for the PATHS. Frameworks supported are net48 and net5.0 and netstandard2.0 but more can be added following the same pattern
+      //supported frameworks https://docs.microsoft.com/en-us/dotnet/standard/frameworks
+      "net48": [
+        "interop\\Interop.AESTraining.dll",
+        "interop\\Interop.Aosapfs.dll"
+
+      ],
+      "net5.0": [
+        "interop\\Interop.AESTraining.dll",
+        "interop\\Interop.Aosapfs.dll"
+
+      ],
+
+      "netstandard2.0": [
+        "interop\\Interop.AESTraining.dll",
+        "interop\\Interop.Aosapfs.dll"
+
+      ]
+    }
+  ]
+}

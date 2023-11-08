@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id></id>
+    <version></version>
+    <description></description>
+    <copyright>Copyright (YEAR) Aspen Technology, Inc.</copyright>
+    <owners>Aspen Technology, Inc.</owners>
+    <authors>Aspen Technology, Inc.</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>  
+    <references>    
+    </references>
+  </metadata>
+  <files>
+  </files>
+</package>

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\posadasg\\Documents\\Projects\\NugetBuilder\\NugetBuilder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\posadasg\\Documents\\Projects\\NugetBuilder\\NugetBuilder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\posadasg\\Documents\\Projects\\NugetBuilder\\NugetBuilder.csproj",
+        "projectName": "NugetBuilder",
+        "projectPath": "C:\\Users\\posadasg\\Documents\\Projects\\NugetBuilder\\NugetBuilder.csproj",
+        "packagesPath": "C:\\Users\\posadasg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\posadasg\\Documents\\Projects\\NugetBuilder\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\posadasg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\posadasg\\Desktop\\newSofftJSON": {},
+          "C:\\Users\\posadasg\\Pictures": {},
+          "http://artifactory1.rnd.aspentech.com:8081/artifactory/api/nuget/atcomponents-nuget-dev-local": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
